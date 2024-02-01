@@ -19,7 +19,7 @@ subtitle = "Personal blog for learning, insights and services."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/blog_selfie.png"
+src = "img/avatar.jpeg"
 
 [article]
 math = false
