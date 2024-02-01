@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Data projects
+description: Examples of personal data projects
 image:
 
 # Badge style
