@@ -14,4 +14,4 @@ categories:
 
 This video lecture was part of the Post-graduate Certificate I completed in 2023, focusing on digital pedagogies in practice. Part of this involved critical evaluating digital tools for collabaorative learning. Enjoy!
 
-{{< youtube dQw4w9WgXcQ >}}
+Part 1 {{< youtube gm2l0HZBKDY >}}
