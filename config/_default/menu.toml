@@ -34,7 +34,7 @@ icon = "kaggle"
 [[social]]
 identifier = "stackoverflow"
 name = "StackOverFlow"
-url = "https://stackoverflow.com/users/4320101/william-baker-morrison"
+url = "https://stackoverflow.com/users/4320131/william-baker-morrison"
 
 [social.params]
 icon = "stackoverflow"
