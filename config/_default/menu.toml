@@ -29,7 +29,7 @@ name = "Kaggle"
 url = "https://kaggle.com/wilomentena"
 
 [social.params]
-icon = "brand-kaggle"
+icon = "kaggle"
 
 [[social]]
 identifier = "stackoverflow"
