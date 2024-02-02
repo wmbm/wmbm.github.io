@@ -20,4 +20,4 @@ This video lecture was part of the Post-graduate Certificate I completed in 2023
 
 ## Part 2
 
-{{, youtube OndZyMMSvLk >}}
+{{< youtube OndZyMMSvLk >}}
