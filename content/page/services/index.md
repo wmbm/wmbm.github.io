@@ -44,6 +44,6 @@ Lecturing and course delivery of computing topics
 
 I am now also offering bespoke trainings for individuals. Whether that is learning to develop your own machine learning models, building confidence with programming or finding your way in the tech landscape.
 
-## Contact 
+## Contact
 
-Feel free to reach out to me via williambakermorrison@posteo.net for an individual consultation
+Feel free to reach out to me via <williambakermorrison@posteo.net> for an individual consultation
