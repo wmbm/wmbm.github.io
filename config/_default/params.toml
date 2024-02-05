@@ -3,7 +3,14 @@ mainSections = ["post"]
 
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "assets/favicons/favicon.png"
+
+[assets]
+disableHLJS = true 
+favicon = "/assets/favicons/favicon.png"
+favicon16x16 = "/assets/favicons/favicon-16x16.pmg"
+favicon32x32 = "/assets/favicons/favicon-32x32.png"
+apple_touch_icon = "/assets/favicons/apple-touch-icon.png"
+#android_chrome19 = "/assets/favicons/android-chrome-192x192.png"
 
 [footer]
 since = 2020
