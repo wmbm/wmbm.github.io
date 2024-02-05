@@ -15,28 +15,28 @@ url = "https://github.com/wmbm"
 [social.params]
 icon = "github"
 
-# [[social]]
-# identifier = "linkedin"
-# name = "LinkedIn"
-# url = "https://linkedin.com/in/william-baker-morrison"
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://linkedin.com/in/william-baker-morrison"
 
-# [social.params]
-# icon = "linkedin"
+[social.params]
+icon = "linkedin"
 
-# [[social]]
-# identifier = "kaggle"
-# name = "Kaggle"
-# url = "https://kaggle.com/wilomentena"
+[[social]]
+identifier = "kaggle"
+name = "Kaggle"
+url = "https://kaggle.com/wilomentena"
 
-# [social.params]
-# icon = "kaggle"
+[social.params]
+icon = "kaggle"
 
-# [[social]]
-# identifier = "stackoverflow"
-# name = "StackOverFlow"
-# url = "https://stackoverflow.com/users/4320131/william-baker-morrison"
+[[social]]
+identifier = "stackoverflow"
+name = "StackOverFlow"
+url = "https://stackoverflow.com/users/4320131/william-baker-morrison"
 
-# [social.params]
-# icon = "stackoverflow"
+[social.params]
+icon = "stackoverflow"
 
 
