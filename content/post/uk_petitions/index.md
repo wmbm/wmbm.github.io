@@ -1,6 +1,6 @@
 ---
 title: UK Government petitions dataset
-description: Creating open civ-tech oppurtunities
+description: Championing the sharing of accessible & open-source CivTech datasets
 date: 2024-01-01 00:00:00+0000
 image: ukpetitions.jpg
 categories:
@@ -9,10 +9,15 @@ categories:
 tags:
     - Webscraping
     - CivTech
+    - EDA
 ---
 
-For a mini-project, I webscraped and publish freely available UK government petition data.
+For a personal project, I webscraped and published freely available UK government petition data.
 
-Is petitioning the government a pro-active and effective means to change?
+The overall research questions could include:
+
+- Is petitioning the government a pro-active and effective means to change?
+- Which petitions are most discussed?
+- What are the reasons for petition rejections?
 
 You can access the dataset [here](https://www.kaggle.com/datasets/wilomentena/uk-government-petitions) and associated codebooks.
