@@ -2,7 +2,7 @@
 title: CEO wage gap
 description: Understanding the difference in wages between the average employee and a CEO 
 date: 2023-08-24 00:00:00+0000
-image: nba1.png
+image: ceo_wage_gap.png
 categories:
     - Data projects
 tags:
