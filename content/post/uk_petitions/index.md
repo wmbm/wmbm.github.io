@@ -7,7 +7,7 @@ categories:
     - Datasets
     - Data Visualisation
 tags:
-    - Web craping
+    - Webscraping
     - CivTech
 ---
 
