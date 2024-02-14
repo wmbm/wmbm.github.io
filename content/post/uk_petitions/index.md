@@ -6,8 +6,9 @@ image: ukpetitions.jpg
 categories:
     - Datasets
     - Data Visualisation
-tag:
-    - Web scraping
+tags:
+    - Web craping
+    - CivTech
 ---
 
 For a mini-project, I webscraped and publish freely available UK government petition data.

@@ -1,5 +1,5 @@
 ---
-title: NBA Players (EDA | SVM | Visualisations)
+title: NBA Players
 description: Exploring how basketball has changed over the decades
 slug: nba-players
 date: 2024-01-02 00:00:00+0000
@@ -8,6 +8,7 @@ categories:
     - Data projects
 tags:
     - Python
+    - EDA
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

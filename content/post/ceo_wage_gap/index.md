@@ -5,8 +5,10 @@ date: 2023-08-24 00:00:00+0000
 image: ceo_wage_gap.png
 categories:
     - Data projects
+    - Data Visualisation
 tags:
-    - Example Tag
+    - Python
+    - CivTech
 ---
 
 Over the past 50 years the CEO wage gap has dramatically increased.
