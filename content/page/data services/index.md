@@ -6,6 +6,7 @@ menu:
         weight: 3
         params: 
             icon: robot
+comments: false
 ---
 
 # Freelance Data Science Services

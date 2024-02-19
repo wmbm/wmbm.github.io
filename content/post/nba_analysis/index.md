@@ -2,7 +2,7 @@
 title: NBA Players
 description: Exploring how basketball has changed over the decades
 slug: nba-players
-date: 2023-01-02 01:00:00+0000
+date: 2023-01-02
 image: nba1.png
 categories:
     - Data projects
@@ -10,6 +10,7 @@ tags:
     - Python
     - EDA
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+comments: false
 ---
 
 **Dataset**: NBA players 1990-2022 

@@ -6,6 +6,7 @@ menu:
         weight: 2
         params: 
             icon: pencil
+comments: false
 ---
 
 ## Freelance education services provided
