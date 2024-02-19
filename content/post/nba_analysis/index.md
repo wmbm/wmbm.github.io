@@ -2,7 +2,7 @@
 title: NBA Players
 description: Exploring how basketball has changed over the decades
 slug: nba-players
-date: 2024-01-02 00:00:00+0000
+date: 2023-01-02 01:00:00+0000
 image: nba1.png
 categories:
     - Data projects

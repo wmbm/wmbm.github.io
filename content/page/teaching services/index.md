@@ -1,8 +1,8 @@
 ---
-title: "EdTech Clients & Services"
-date: 2024-02-02
-layout: "Clients & Services"
-slug: "Clients & Services"
+title: "Education Services"
+date: 2024-12-02
+layout: "Education Services"
+slug: "Education Services"
 menu:
     main:
         weight: 2
@@ -10,7 +10,10 @@ menu:
             icon: pencil
 ---
 
-## Services provided
+# Freelance education services provided
+
+
+## Services offered
 
 ### Bachelors and Masters course development
 
@@ -33,6 +36,6 @@ My personalized training sessions cater to individuals or groups seeking profici
 | <img src="GISMA.png" height="100" width="300"> | [GISMA University of Applied Sciences](https://www.gisma.com/) provides masters and bachelors courses.I developed multiple of their courses including **advanced programming** and **introduction to Python** |
 | [Arden University Berlin](https://arden.ac.uk/berlin) provides a range of masters and bachelors course. With them I delivered lectures on computing topics, and well as developing their **Industry Relevant Tools** training series for Python & Django | <img src="Arden.png" height="100" width="200"> |
 
-## Contact
+## Get started
 
 Please feel free to contact me directly at <williambakermorrison@posteo.net> if you would like to discuss your needs further or schedule a personalized consultation. I'm here to assist you and look forward to the opportunity to connect!

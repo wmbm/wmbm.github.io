@@ -1,7 +1,7 @@
 ---
 title: UK Government petitions dataset
 description: Championing the sharing of accessible & open-source CivTech datasets
-date: 2024-01-01 00:00:00+0000
+date: 2024-01-01
 image: ukpetitions.jpg
 categories:
     - Datasets
