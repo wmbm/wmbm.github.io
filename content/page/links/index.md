@@ -11,7 +11,7 @@ links:
     image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-1536.png&f=1&nofb=1&ipt=d4214b9064e0552614f30328c2a496eb8f7aa67b503eeb17f29b894a4878c70f&ipo=images
 menu:
     main: 
-        weight: 4
+        weight: 5
         params:
             icon: link
 

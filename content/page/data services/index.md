@@ -1,8 +1,6 @@
 ---
 title: "Data Services"
 date: 2024-02-17
-layout: "Data Services"
-slug: "Data Services"
 menu:
     main:
         weight: 3
@@ -28,7 +26,7 @@ Welcome to my freelance data science services page! As an experienced data scien
 - **Data Normalization**: Standardize data formats and values to ensure consistency across your datasets.
 - **Feature Engineering**: Enhance your dataset with new features derived from existing data, improving the performance of machine learning models.
 
-### Machine Learning Model Development
+### ML Model Development
 
 - **Predictive Modeling**: Develop models to forecast future trends, customer behavior, sales, and more, using advanced algorithms.
 - **Classification and Clustering**: Create models to categorize data into distinct groups or predict categorical outcomes, useful for customer segmentation, recommendation systems, and more.

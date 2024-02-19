@@ -1,8 +1,6 @@
 ---
 title: "Education Services"
-date: 2024-12-02
-layout: "Education Services"
-slug: "Education Services"
+date: 2024-02-02
 menu:
     main:
         weight: 2
@@ -10,8 +8,7 @@ menu:
             icon: pencil
 ---
 
-# Freelance education services provided
-
+## Freelance education services provided
 
 ## Services offered
 
