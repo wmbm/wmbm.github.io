@@ -42,7 +42,7 @@ What's the deal with all this "Apache"? Well, it's part of the [Apache Software 
 
 **Open-source alert again!**: With all this free and open-source software (FOSS) around, it's almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. I doubt this will be for long and predict Tableau to be superceded by a FOSS equivalent within the next 5 years. What do you think?
 
-Finally... let's check out the Python packages most in demand:
+Finally... let's check out the Python packages most in demand in 2024:
 
 ![Fig 3 - Python packages](pypack.png)
 
