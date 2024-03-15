@@ -13,41 +13,55 @@ tags:
 comments: false
 ---
 
-So you want to move into the data field but are unsure where to focus your energy? Look no further!
+So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**
+
+> _-------------- Descriptive analytics of +400 job ads from the Berlin tech market 2024 --------------_
+
+## Programming languages
 
 Firstly let's investigate the most popular programming langauges in data jobs in Berlin.
 
 ![Fig 1 - Programming languages](proglang.png)
 
-It's pretty clear that Python and SQL are the most in demand skills, with a whopping 37% and 32% of all data jobs asking for these skills respectively. The gender-diverse Kings and Queens of data analysis reign supreme! Now this may not be a huge surprise, but what is also interesting to note is the runners up:
+It's pretty clear that **Python and SQL** are the most in demand skills, with over a third of all data jobs asking for these skills respectively. The gender-diverse Kings and Queens of data analysis reign supreme! Now this may not be a huge surprise, but what is also interesting to note is the runners up:
 
-- **Java** - Used often big data data processing and analysis (efficient and scalable).
-- **Scala** - Used for solving big data problems (the language chosen by Apache Spark and works well with Java).
-- **R** - Is a statistical powerhouse with comprehensive ecosystem of packages for analysis, visualisation and ML.
-- **C++** - Used for high power processing due to it's resource effiency (e.g. high frequency trading, complex simulations).
+- **Java** is commonly used for processing and analyzing large amounts of data efficiently.
+- **Scala**  excels at handling big data problems, favored by Apache Spark and compatible with Java..
+- **R** focuses on statistical analysis, with a large collection of packages for data analysis, visualization, and machine learning.
+- **C++** is a powerful programming language known for its efficiency, making it ideal for tasks requiring intense processing, like high-frequency trading or complex simulations.
 
-**Open-source alert!**: Notice how the only two closed-source languages are Matlab and SAS.
+> **Open-source alert!**: Notice how the only two "closed-source" languages are Matlab and SAS (and those you need to pay to use).
 
 Let's move onto data analysis tools...
 
+## Analysis tools
+
+Analysis tools are softwares which make engineers and analysts lives easier as part of their everyday workflow, including things like data visualisation, big data handling, scheduling and more...
+
 ![Fig 2 - Data tools](dattools.png)
 
-Here most people will know Tableau and Excel but what about the other tools?
+Here most people will know **Tableau and Excel** but what about the other tools?
 
-- **Spark** - Apache Spark is a scalable data analysis tool.
-- **Airflow** -  Apache Airflow allow for scheduling and monitoring workflows (e.g. machine learning pipelines).
-- **Databricks** - Databricks is a data warehousing and AI tool (interestingly it was founded by the creators of Apache Spark).
+- **Spark** is an Apache tool that can handle and analyze large amounts of data quickly..
+- **Airflow** is another Apache tool for setting up and keeping an eye on a series of tasks, such as data processing or machine learning steps
+- **Databricks** is a platform for storing data and building AI applications (also made by the developers of Apache Spark). 
 
-What's the deal with all this "Apache"? Well, it's part of the [Apache Software Foundation](https://apache.org/) producing cutting edge open-source (and often **free**) software solutions for many different applications. 
+What's the deal with all this "**Apache**" software? Well, it's part of the [Apache Software Foundation](https://apache.org/) (ASF) a non-profit organization that supports and promotes open-source software projects.
 
-**Open-source alert again!**: With all this free and open-source software (FOSS) around, it's almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. I doubt this will be for long and predict Tableau to be superceded by a FOSS equivalent within the next 5 years. What do you think?
+> **Open-source alert again!**: With all this free and open-source software (FOSS) around, it's almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. Do you think there will be a FOSS equivalent within the next 5 years?
 
-Finally... let's check out the Python packages most in demand in 2024:
+Finally... let's check out the Python packages most in demand in 2024.
+
+## Python packages
 
 ![Fig 3 - Python packages](pypack.png)
 
-What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations.
+What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!
 
-**TLDR**: If you want a data job in Berlin in 2024, learn Python, SQL and one Apache tool (like Spark or Airflow) and consider becoming a data engineer!
+> **TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and one Apache tool (like Spark or Airflow)!
 
-Checkout the full code [here](https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin)
+Finally, of course you have to also think for yourself and take this work critically! But this overview hopes to give you a more quantitative approach for your data job journey. 
+
+Hope it helps! And if you have any questions or comments, feel free to get in touch!
+
+Checkout the full analysis [here](https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin)
