@@ -15,7 +15,9 @@ comments: true
 
 So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**
 
-> _-------------- Descriptive analytics of +400 job ads from the Berlin tech market 2024 --------------_
+> _**TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and perhaps one Apache tool (like Spark or Airflow)!_
+
+In this blogpost I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market 2024.
 
 ## Programming languages
 
@@ -58,10 +60,8 @@ Finally... let's check out the Python packages most in demand in 2024.
 
 What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!
 
-> **TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and one Apache tool (like Spark or Airflow)!
+Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.
 
-Finally, of course you have to also think for yourself and take this work critically! But this overview hopes to give you a more quantitative approach for your data job journey. 
-
-Hope it helps! And if you have any questions or comments, feel free to get in touch!
+> Something you'd like to add? If you have any questions or comments, feel free to add your thoughts below!
 
 Checkout the full analysis [here](https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin)

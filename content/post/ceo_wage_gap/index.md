@@ -16,4 +16,6 @@ Over the past 50 years the CEO wage gap has dramatically increased.
 
 In this mini-project, I wanted to created some visualisations to communicate this difference impactfully.
 
+> Something you'd like to add? If you have any questions or comments, feel free to add your thoughts below!
+
 Checkout the full code [here](https://www.kaggle.com/code/wilomentena/eda-ceo-vs-worker-pay-2023)

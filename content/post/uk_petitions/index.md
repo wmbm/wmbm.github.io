@@ -21,4 +21,6 @@ The overall research questions could include:
 - Which petitions are most discussed?
 - What are the reasons for petition rejections?
 
+> Something you'd like to add? If you have any questions or comments, feel free to add your thoughts below!
+
 You can access the dataset [here](https://www.kaggle.com/datasets/wilomentena/uk-government-petitions) and associated codebooks.

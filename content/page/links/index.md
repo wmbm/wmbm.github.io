@@ -1,8 +1,12 @@
 ---
 title: Links
 links:
+  - title: Kaggle
+    description: Examples of personal data science projects
+    webiste: https://www.kaggle.com/wilomentena
+    image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.CdPTaksGCgRzjhCmZbU_igHaHa%26pid%3DApi&f=1&ipt=7f62770768dc312590dfae2891b912567a4ca563c3c83b1925dcb4b7544e400e&ipo=images
   - title: GitHub
-    description: Explore some samples of personal projects.
+    description: Examples of personal software development and data science projects.
     website: https://github.com/wmbm
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: LinkedIn

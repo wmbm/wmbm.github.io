@@ -19,4 +19,4 @@ comments: true
 
 To explore the code on my [Kaggle site](https://www.kaggle.com/code/wilomentena/nba-players-eda-svm-visualisations)
 
-> For a consultation, please checkout my links page.
+> Something you'd like to add? If you have any questions or comments, feel free to add your thoughts below!
