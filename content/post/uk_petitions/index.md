@@ -10,7 +10,7 @@ tags:
     - Webscraping
     - CivTech
     - EDA
-comments: false
+comments: true
 ---
 
 For a personal project, I webscraped and published freely available UK government petition data.

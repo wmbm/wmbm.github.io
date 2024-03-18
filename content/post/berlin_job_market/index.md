@@ -10,7 +10,7 @@ categories:
 tags:
     - Python
     - Digital tools
-comments: false
+comments: true
 ---
 
 So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**

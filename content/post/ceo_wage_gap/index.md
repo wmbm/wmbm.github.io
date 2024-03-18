@@ -9,7 +9,7 @@ categories:
 tags:
     - Python
     - CivTech
-comments: false
+comments: true
 ---
 
 Over the past 50 years the CEO wage gap has dramatically increased.
