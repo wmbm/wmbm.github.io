@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching on William Baker Morrison</title><link>https://wmbm.github.io/categories/teaching/</link><description>Recent content in Teaching on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml"/><item><title>What programming languages and data analysis tools to learn in 2024</title><link>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</guid><description>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang.png" alt="Featured image of post What programming languages and data analysis tools to learn in 2024" />&lt;p>So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? &lt;strong>Well&amp;hellip; look no further!&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>&lt;strong>TLDR&lt;/strong>: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS (also consider one Apache tool, like Spark or Airflow)&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>In this blogpost, I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market in March 2024.&lt;/p>
+&lt;h2 id="programming-languages">Programming languages&lt;/h2>
+&lt;p>Firstly let&amp;rsquo;s investigate the most popular programming langauges in data jobs in Berlin.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Programming languages"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>It&amp;rsquo;s pretty clear that &lt;strong>Python and SQL&lt;/strong> are the most in demand skills, with over a third of all data jobs asking for these skills respectively. The gender-diverse Kings and Queens of data analysis reign supreme! Now this may not be a huge surprise, but what is also interesting to note is the runners up:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Java&lt;/strong> is commonly used for processing and analyzing large amounts of data efficiently.&lt;/li>
+&lt;li>&lt;strong>Scala&lt;/strong> excels at handling big data problems, favored by Apache Spark and compatible with Java..&lt;/li>
+&lt;li>&lt;strong>R&lt;/strong> focuses on statistical analysis, with a large collection of packages for data analysis, visualization, and machine learning.&lt;/li>
+&lt;li>&lt;strong>C++&lt;/strong> is a powerful programming language known for its efficiency, making it ideal for tasks requiring intense processing, like high-frequency trading or complex simulations.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert!&lt;/strong>: Notice how the only two &amp;ldquo;closed-source&amp;rdquo; languages are Matlab and SAS (and those you need to pay to use).&lt;/p>
+&lt;/blockquote>
+&lt;p>Let&amp;rsquo;s move onto data analysis tools&amp;hellip;&lt;/p>
+&lt;h2 id="analysis-tools">Analysis tools&lt;/h2>
+&lt;p>Analysis tools are softwares which make engineers and analysts lives easier as part of their everyday workflow, including things like data visualisation, big data handling, scheduling and more&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Data tools"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>Here most people will know &lt;strong>Tableau and Excel&lt;/strong> but what about the other tools?&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Spark&lt;/strong> is an Apache tool that can handle and analyze large amounts of data quickly..&lt;/li>
+&lt;li>&lt;strong>Airflow&lt;/strong> is another Apache tool for setting up and keeping an eye on a series of tasks, such as data processing or machine learning steps&lt;/li>
+&lt;li>&lt;strong>Databricks&lt;/strong> is a platform for storing data and building AI applications (also made by the developers of Apache Spark).&lt;/li>
+&lt;/ul>
+&lt;p>What&amp;rsquo;s the deal with all this &amp;ldquo;&lt;strong>Apache&lt;/strong>&amp;rdquo; software? Well, it&amp;rsquo;s part of the &lt;a class="link" href="https://apache.org/" target="_blank" rel="noopener"
+>Apache Software Foundation&lt;/a> (ASF) a non-profit organization that supports and promotes open-source software projects.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert again!&lt;/strong>: With all this free and open-source software (FOSS) around, it&amp;rsquo;s almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. Do you think there will be a FOSS equivalent within the next 5 years?&lt;/p>
+&lt;/blockquote>
+&lt;p>Next&amp;hellip; let&amp;rsquo;s check out the Python packages most in demand in 2024.&lt;/p>
+&lt;h2 id="python-packages">Python packages&lt;/h2>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 3 - Python packages"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!&lt;/p>
+&lt;h2 id="cloud-technologies">Cloud technologies&lt;/h2>
+&lt;p>Last but not least, (&lt;em>turns on smoke machine&lt;/em>) &amp;hellip; THE CLOUD &amp;hellip; (&lt;em>turns off smoke machine&lt;/em>). Basically, &amp;ldquo;the cloud&amp;rdquo; is a shed somewhere with hundreds of computers which you pay someone to process or store your terrabytes of data instead of doing it on your struggling laptop. These days it&amp;rsquo;s a common expectation for data scientists and engineers to be experienced with cloud technologies for storage and/or processing purposes.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 4 - Cloud technologies"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>Looking at the data tech jobs, a whopping 40% of job ads mentioned &amp;ldquo;cloud&amp;rdquo; with the most popular cloud service provider being AWS (Amazon Web Services), followed by Azure, the Microsoft equivalent.&lt;/p>
+&lt;h2 id="in-closing">In closing&lt;/h2>
+&lt;p>Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>Checkout the full analysis &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p></description></item><item><title>Critical use of digital tools (PGCert)</title><link>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</link><pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</guid><description>&lt;img src="https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/critical_digital_peda.png" alt="Featured image of post Critical use of digital tools (PGCert)" />&lt;p>This video lecture was part of the Post-graduate Certificate I completed in 2023, focusing on digital pedagogies in practice. Part of this involved critical evaluating digital tools for collabaorative learning. Here we looked at diagrams.net, a open-source, cloud-based diagramming software. If you&amp;rsquo;re an educator or facilitator this tool would certainly be of interest to you!&lt;/p>
+&lt;p>Here&amp;rsquo;s &lt;a class="link" href="https://www.drawio.com/" target="_blank" rel="noopener"
+>the site&lt;/a> if you want to try it out yourself.&lt;/p>
+&lt;h2 id="part-1">Part 1&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/gm2l0HZBKDY"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="part-2">Part 2&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/OndZyMMSvLk"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

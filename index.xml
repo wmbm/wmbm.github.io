@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>William Baker Morrison</title><link>https://wmbm.github.io/</link><description>Recent content on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>What programming languages and data analysis tools to learn in 2024</title><link>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</guid><description>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang.png" alt="Featured image of post What programming languages and data analysis tools to learn in 2024" />&lt;p>So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? &lt;strong>Well&amp;hellip; look no further!&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>&lt;strong>TLDR&lt;/strong>: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS (also consider one Apache tool, like Spark or Airflow)&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>In this blogpost, I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market in March 2024.&lt;/p>
+&lt;h2 id="programming-languages">Programming languages&lt;/h2>
+&lt;p>Firstly let&amp;rsquo;s investigate the most popular programming langauges in data jobs in Berlin.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Programming languages"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>It&amp;rsquo;s pretty clear that &lt;strong>Python and SQL&lt;/strong> are the most in demand skills, with over a third of all data jobs asking for these skills respectively. The gender-diverse Kings and Queens of data analysis reign supreme! Now this may not be a huge surprise, but what is also interesting to note is the runners up:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Java&lt;/strong> is commonly used for processing and analyzing large amounts of data efficiently.&lt;/li>
+&lt;li>&lt;strong>Scala&lt;/strong> excels at handling big data problems, favored by Apache Spark and compatible with Java..&lt;/li>
+&lt;li>&lt;strong>R&lt;/strong> focuses on statistical analysis, with a large collection of packages for data analysis, visualization, and machine learning.&lt;/li>
+&lt;li>&lt;strong>C++&lt;/strong> is a powerful programming language known for its efficiency, making it ideal for tasks requiring intense processing, like high-frequency trading or complex simulations.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert!&lt;/strong>: Notice how the only two &amp;ldquo;closed-source&amp;rdquo; languages are Matlab and SAS (and those you need to pay to use).&lt;/p>
+&lt;/blockquote>
+&lt;p>Let&amp;rsquo;s move onto data analysis tools&amp;hellip;&lt;/p>
+&lt;h2 id="analysis-tools">Analysis tools&lt;/h2>
+&lt;p>Analysis tools are softwares which make engineers and analysts lives easier as part of their everyday workflow, including things like data visualisation, big data handling, scheduling and more&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Data tools"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>Here most people will know &lt;strong>Tableau and Excel&lt;/strong> but what about the other tools?&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Spark&lt;/strong> is an Apache tool that can handle and analyze large amounts of data quickly..&lt;/li>
+&lt;li>&lt;strong>Airflow&lt;/strong> is another Apache tool for setting up and keeping an eye on a series of tasks, such as data processing or machine learning steps&lt;/li>
+&lt;li>&lt;strong>Databricks&lt;/strong> is a platform for storing data and building AI applications (also made by the developers of Apache Spark).&lt;/li>
+&lt;/ul>
+&lt;p>What&amp;rsquo;s the deal with all this &amp;ldquo;&lt;strong>Apache&lt;/strong>&amp;rdquo; software? Well, it&amp;rsquo;s part of the &lt;a class="link" href="https://apache.org/" target="_blank" rel="noopener"
+>Apache Software Foundation&lt;/a> (ASF) a non-profit organization that supports and promotes open-source software projects.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert again!&lt;/strong>: With all this free and open-source software (FOSS) around, it&amp;rsquo;s almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. Do you think there will be a FOSS equivalent within the next 5 years?&lt;/p>
+&lt;/blockquote>
+&lt;p>Next&amp;hellip; let&amp;rsquo;s check out the Python packages most in demand in 2024.&lt;/p>
+&lt;h2 id="python-packages">Python packages&lt;/h2>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 3 - Python packages"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!&lt;/p>
+&lt;h2 id="cloud-technologies">Cloud technologies&lt;/h2>
+&lt;p>Last but not least, (&lt;em>turns on smoke machine&lt;/em>) &amp;hellip; THE CLOUD &amp;hellip; (&lt;em>turns off smoke machine&lt;/em>). Basically, &amp;ldquo;the cloud&amp;rdquo; is a shed somewhere with hundreds of computers which you pay someone to process or store your terrabytes of data instead of doing it on your struggling laptop. These days it&amp;rsquo;s a common expectation for data scientists and engineers to be experienced with cloud technologies for storage and/or processing purposes.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 4 - Cloud technologies"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>Looking at the data tech jobs, a whopping 40% of job ads mentioned &amp;ldquo;cloud&amp;rdquo; with the most popular cloud service provider being AWS (Amazon Web Services), followed by Azure, the Microsoft equivalent.&lt;/p>
+&lt;h2 id="in-closing">In closing&lt;/h2>
+&lt;p>Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>Checkout the full analysis &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p></description></item><item><title>Data Services</title><link>https://wmbm.github.io/data-services/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/data-services/</guid><description>&lt;h1 id="freelance-data-science-services">Freelance Data Science Services&lt;/h1>
+&lt;p>Welcome to my freelance data science services page! As an experienced data scientist, I offer a comprehensive suite of services designed to help businesses unlock the full potential of their data. From gathering and cleaning data to developing sophisticated machine learning models, I provide the expertise you need to make data-driven decisions and stay competitive in today&amp;rsquo;s fast-paced market.&lt;/p>
+&lt;h2 id="services-offered">Services Offered&lt;/h2>
+&lt;h3 id="web-scraping">Web Scraping&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Custom Web Scraping Solutions&lt;/strong>: Tailored scripts to extract data from websites, regardless of complexity. Ideal for gathering market research, competitor information, customer feedback, and more.&lt;/li>
+&lt;li>&lt;strong>Data Extraction and Aggregation&lt;/strong>: Efficiently compile data from multiple sources into a single, organized dataset ready for analysis.&lt;/li>
+&lt;li>&lt;strong>Automated Data Collection&lt;/strong>: Set up automated systems to regularly collect data, ensuring you always have access to the latest information.&lt;/li>
+&lt;/ul>
+&lt;h3 id="data-cleaning">Data Cleaning&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Data Preprocessing&lt;/strong>: Transform raw data into a clean dataset by handling missing values, removing duplicates, and correcting errors.&lt;/li>
+&lt;li>&lt;strong>Data Normalization&lt;/strong>: Standardize data formats and values to ensure consistency across your datasets.&lt;/li>
+&lt;li>&lt;strong>Feature Engineering&lt;/strong>: Enhance your dataset with new features derived from existing data, improving the performance of machine learning models.&lt;/li>
+&lt;/ul>
+&lt;h3 id="ml-model-development">ML Model Development&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Predictive Modeling&lt;/strong>: Develop models to forecast future trends, customer behavior, sales, and more, using advanced algorithms.&lt;/li>
+&lt;li>&lt;strong>Classification and Clustering&lt;/strong>: Create models to categorize data into distinct groups or predict categorical outcomes, useful for customer segmentation, recommendation systems, and more.&lt;/li>
+&lt;li>&lt;strong>Model Optimization and Validation&lt;/strong>: Fine-tune model parameters for maximum accuracy and validate models using industry-standard practices to ensure reliability.&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-choose-me">Why Choose Me?&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Expertise and Experience&lt;/strong>: With years of experience in data science, I possess the knowledge and skills to tackle complex data challenges.&lt;/li>
+&lt;li>&lt;strong>Customized Solutions&lt;/strong>: Every project is unique, and I provide customized solutions tailored to meet your specific needs and goals.&lt;/li>
+&lt;li>&lt;strong>Transparent Communication&lt;/strong>: Clear and frequent communication throughout the project to ensure alignment and satisfaction with the results.&lt;/li>
+&lt;li>&lt;strong>Efficiency and Quality&lt;/strong>: Commitment to delivering high-quality work within agreed timelines, ensuring your projects move forward smoothly.&lt;/li>
+&lt;/ul>
+&lt;h2 id="previous-clients">Previous clients&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="polisphere.jpg" height="100" width="300">&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.polisphere.eu/en/" target="_blank" rel="noopener"
+>Polisphere&lt;/a> is a political think tank with whom I provided data training and developed data collection tools for.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://streem.ai/" target="_blank" rel="noopener"
+>Streem.ai&lt;/a> is a anomaly detection technology which I helped conceptualise and develop&lt;/td>
+&lt;td>&lt;img src="streem.png" height="100" width="300">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="TUB.png" height="50" width="200">&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.psyco.tu-berlin.de/" target="_blank" rel="noopener"
+>TU Berlin&lt;/a> research group with who I helped develop computational models of visual perception&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;p>Ready to leverage your data for better decision-making? Contact me to discuss your project and how my data science services can help your business thrive. Whether you&amp;rsquo;re looking to scrape web data, clean existing datasets, or develop sophisticated machine learning models, I&amp;rsquo;m here to assist you every step of the way.&lt;/p>
+&lt;p>Let&amp;rsquo;s turn your data into actionable insights together!&lt;/p></description></item><item><title>Education Services</title><link>https://wmbm.github.io/education-services/</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/education-services/</guid><description>&lt;h2 id="freelance-education-services-provided">Freelance education services provided&lt;/h2>
+&lt;h2 id="services-offered">Services offered&lt;/h2>
+&lt;h3 id="bachelors-and-masters-course-development">Bachelors and Masters course development&lt;/h3>
+&lt;p>I offer comprehensive development services tailored for both undergraduate and graduate-level courses. Our expertise ensures that course materials are meticulously crafted to meet educational standards and fulfill learning objectives effectively.&lt;/p>
+&lt;h3 id="1-on-1-or-group-trainings">1-on-1 or group trainings&lt;/h3>
+&lt;p>My personalized training sessions cater to individuals or groups seeking proficiency in Python programming. Our curriculum can cover a wide range of topics, including:&lt;/p>
+&lt;ul>
+&lt;li>Data visualisation&lt;/li>
+&lt;li>Data preparation&lt;/li>
+&lt;li>Data modelling&lt;/li>
+&lt;/ul>
+&lt;h2 id="current-and-previous-clients">Current and previous clients&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="StartSteps.jpeg" height="50" width="200">&lt;/td>
+&lt;td>&lt;a class="link" href="https://startsteps.org/en" target="_blank" rel="noopener"
+>Startsteps&lt;/a> is a coding bootcamp based in Berlin with whom I developed a delivered a introductory course to data handling with Python for the Women in Tech group at Zalando.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://careerfoundry.com/" target="_blank" rel="noopener"
+>Career foundry&lt;/a> is an online tech school with whom I helped develop their &lt;strong>Machine Learning with Python&lt;/strong> specialization course.&lt;/td>
+&lt;td>&lt;img src="Career-Foundry.png" height="50" width="200">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="GISMA.png" height="100" width="300">&lt;/td>
+&lt;td>&lt;a class="link" href="https://www.gisma.com/" target="_blank" rel="noopener"
+>GISMA University of Applied Sciences&lt;/a> provides masters and bachelors courses.I developed multiple of their courses including &lt;strong>advanced programming&lt;/strong> and &lt;strong>introduction to Python&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://arden.ac.uk/berlin" target="_blank" rel="noopener"
+>Arden University Berlin&lt;/a> provides a range of masters and bachelors course. With them I delivered lectures on computing topics, and well as developing their &lt;strong>Industry Relevant Tools&lt;/strong> training series for Python &amp;amp; Django&lt;/td>
+&lt;td>&lt;img src="Arden.png" height="100" width="200">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="get-started">Get started&lt;/h2>
+&lt;p>Please feel free to contact me directly at &lt;a class="link" href="mailto:williambakermorrison@posteo.net" >williambakermorrison@posteo.net&lt;/a> if you would like to discuss your needs further or schedule a personalized consultation. I&amp;rsquo;m here to assist you and look forward to the opportunity to connect!&lt;/p></description></item><item><title>UK Government petitions dataset</title><link>https://wmbm.github.io/p/uk-government-petitions-dataset/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/uk-government-petitions-dataset/</guid><description>&lt;img src="https://wmbm.github.io/p/uk-government-petitions-dataset/ukpetitions.jpg" alt="Featured image of post UK Government petitions dataset" />&lt;p>For a personal project, I webscraped and published freely available UK government petition data.&lt;/p>
+&lt;p>The overall research questions could include:&lt;/p>
+&lt;ul>
+&lt;li>Is petitioning the government a pro-active and effective means to change?&lt;/li>
+&lt;li>Which petitions are most discussed?&lt;/li>
+&lt;li>What are the reasons for petition rejections?&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>You can access the dataset &lt;a class="link" href="https://www.kaggle.com/datasets/wilomentena/uk-government-petitions" target="_blank" rel="noopener"
+>here&lt;/a> and associated codebooks.&lt;/p></description></item><item><title>Critical use of digital tools (PGCert)</title><link>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</link><pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</guid><description>&lt;img src="https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/critical_digital_peda.png" alt="Featured image of post Critical use of digital tools (PGCert)" />&lt;p>This video lecture was part of the Post-graduate Certificate I completed in 2023, focusing on digital pedagogies in practice. Part of this involved critical evaluating digital tools for collabaorative learning. Here we looked at diagrams.net, a open-source, cloud-based diagramming software. If you&amp;rsquo;re an educator or facilitator this tool would certainly be of interest to you!&lt;/p>
+&lt;p>Here&amp;rsquo;s &lt;a class="link" href="https://www.drawio.com/" target="_blank" rel="noopener"
+>the site&lt;/a> if you want to try it out yourself.&lt;/p>
+&lt;h2 id="part-1">Part 1&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/gm2l0HZBKDY"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="part-2">Part 2&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/OndZyMMSvLk"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item><item><title>CEO wage gap in the top 3000 US companies</title><link>https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/</guid><description>&lt;img src="https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/CEO_wage_gap2.png" alt="Featured image of post CEO wage gap in the top 3000 US companies" />&lt;p>Over the past 50 years the CEO wage gap has dramatically increased.&lt;/p>
+&lt;p>In this mini-project, I wanted to created some visualisations to communicate this difference impactfully.&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>Checkout the full code &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/eda-ceo-vs-worker-pay-2023" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p></description></item><item><title>NBA Players</title><link>https://wmbm.github.io/p/nba-players/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/nba-players/</guid><description>&lt;img src="https://wmbm.github.io/p/nba-players/nba2.png" alt="Featured image of post NBA Players" />&lt;p>&lt;strong>Dataset&lt;/strong>: NBA players between 1990-2022&lt;/p>
+&lt;p>&lt;strong>Problem&lt;/strong>: Find how the game has changed over the eras&lt;/p>
+&lt;p>To explore the code on my &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/nba-players-eda-svm-visualisations" target="_blank" rel="noopener"
+>Kaggle site&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item><item><title>Archives</title><link>https://wmbm.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://wmbm.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/links/</guid><description/></item><item><title>Search</title><link>https://wmbm.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/search/</guid><description/></item></channel></rss>

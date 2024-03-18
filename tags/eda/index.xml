@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EDA on William Baker Morrison</title><link>https://wmbm.github.io/tags/eda/</link><description>Recent content in EDA on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/tags/eda/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Government petitions dataset</title><link>https://wmbm.github.io/p/uk-government-petitions-dataset/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/uk-government-petitions-dataset/</guid><description>&lt;img src="https://wmbm.github.io/p/uk-government-petitions-dataset/ukpetitions.jpg" alt="Featured image of post UK Government petitions dataset" />&lt;p>For a personal project, I webscraped and published freely available UK government petition data.&lt;/p>
+&lt;p>The overall research questions could include:&lt;/p>
+&lt;ul>
+&lt;li>Is petitioning the government a pro-active and effective means to change?&lt;/li>
+&lt;li>Which petitions are most discussed?&lt;/li>
+&lt;li>What are the reasons for petition rejections?&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>You can access the dataset &lt;a class="link" href="https://www.kaggle.com/datasets/wilomentena/uk-government-petitions" target="_blank" rel="noopener"
+>here&lt;/a> and associated codebooks.&lt;/p></description></item><item><title>NBA Players</title><link>https://wmbm.github.io/p/nba-players/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/nba-players/</guid><description>&lt;img src="https://wmbm.github.io/p/nba-players/nba2.png" alt="Featured image of post NBA Players" />&lt;p>&lt;strong>Dataset&lt;/strong>: NBA players between 1990-2022&lt;/p>
+&lt;p>&lt;strong>Problem&lt;/strong>: Find how the game has changed over the eras&lt;/p>
+&lt;p>To explore the code on my &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/nba-players-eda-svm-visualisations" target="_blank" rel="noopener"
+>Kaggle site&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
