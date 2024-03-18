@@ -15,9 +15,9 @@ comments: true
 
 So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**
 
-> _**TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and perhaps one Apache tool (like Spark or Airflow)!_
+> _**TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS  (also consider one Apache tool, like Spark or Airflow)_
 
-In this blogpost I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market 2024.
+In this blogpost, I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market in March 2024.
 
 ## Programming languages
 
@@ -52,13 +52,23 @@ What's the deal with all this "**Apache**" software? Well, it's part of the [Apa
 
 > **Open-source alert again!**: With all this free and open-source software (FOSS) around, it's almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. Do you think there will be a FOSS equivalent within the next 5 years?
 
-Finally... let's check out the Python packages most in demand in 2024.
+Next... let's check out the Python packages most in demand in 2024.
 
 ## Python packages
 
 ![Fig 3 - Python packages](pypack.png)
 
 What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!
+
+## Cloud technologies
+
+Last but not least, (_turns on smoke machine_) ... THE CLOUD ... (_turns off smoke machine_). Basically, "the cloud" is a shed somewhere with hundreds of computers which you pay someone to process or store your terrabytes of data instead of doing it on your struggling laptop. These days it's a common expectation for data scientists and engineers to be experienced with cloud technologies for storage and/or processing purposes.
+
+![Fig 4 - Cloud technologies](cloudtech.png)
+
+Looking at the data tech jobs, a whopping 40% of job ads mentioned "cloud" with the most popular cloud service provider being AWS (Amazon Web Services), followed by Azure, the Microsoft equivalent.
+
+## In closing
 
 Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.
 
