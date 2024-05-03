@@ -21,9 +21,9 @@ In this EDA, we explored recent data-tech jobs posted on LinkedIn and investigat
 
 > So what is the difference between which tools you will be using in each job?
 
-![Fig 1 - Data tools](technologies_data_vs.png)
+![Fig 1 - Data tools](tech_data_vs.png)
 
-**Insight:** Data analyst role typically uses more high-level tools (often without any programming!) like Tableau and Excel. Although it can be seen that SQL is expected across all job roles. Python is a data scientists bread-and-butter whilst Java and Scala are exclusively reserved for the Data Engineer
+**Insight:** Data analyst role typically uses more high-level tools (often without any programming!) like Tableau and Excel. Although it can be seen that SQL is expected across all job roles. Python is a data scientists bread-and-butter whilst Java and Scala are exclusively reserved for the Data Engineer.
 
 ## Data activities
 
