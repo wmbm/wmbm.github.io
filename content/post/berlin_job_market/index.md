@@ -2,18 +2,17 @@
 title: What programming languages and data analysis tools to learn in 2024
 description: Taking a quantitative approach to up-skilling 
 date: 2024-03-11
-image: proglang.png
+image: banner.png
 categories:
-    - Data projects
     - Data Visualisation
-    - Teaching
+    - Data Jobs
 tags:
     - Python
     - Digital tools
 comments: true
 ---
 
-So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**
+So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? **Well... look no further!**
 
 > _**TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS  (also consider one Apache tool, like Spark or Airflow)_
 

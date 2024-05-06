@@ -1,48 +1,59 @@
 ---
-title: What's the difference between the different data-jobs?
+title: What sets apart the different data-roles?
 description: Data scientist vs data analyst vs data engineer 
 date: 2024-05-03
-image: activites_data_vs.png
+image: banner_data_vs_final.png
 categories:
-    - Data projects
     - Data Visualisation
-    - Teaching
+    - Data jobs
+
 tags:
     - Python
     - Digital tools
+
 comments: true
 ---
 
-So you want to move into the data field but are unsure where to focus your energy? So many different tools, programming langauges and technologies - where to start? **Well... look no further!**
+So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? **Well... look no further!**
 
-In this EDA, we explored recent data-tech jobs posted on LinkedIn and investigate which tools, activites and degrees are most in demand. Let's get into it!
+In this exploratory data analysis (EDA), we'll explore data-related tech roles posted on LinkedIn to investigate which tools, activites and degrees are expected in these roles, and what is most in demand, to help you align yourself in your job-search. Let's get into it!
 
-## Data tools
+## Analysis tools
 
-> So what is the difference between which tools you will be using in each job?
+> So what is the difference between the tools you will be using in each job?
 
-![Fig 1 - Data tools](technologies_data_vs.png)
+![Fig 1 - Data tools and programming languages associated with each role](technologies_data_vs.png)
 
-**Insight:** Data analyst role typically uses more high-level tools (often without any programming!) like Tableau and Excel. Although it can be seen that SQL is expected across all job roles. Python is a data scientists bread-and-butter whilst Java and Scala are exclusively reserved for the Data Engineer.
+Data analyst roles typically use more high-level tools & software (often without any programming!) like Tableau and Excel. Although it can be seen that SQL is often expected across all data job roles. Python is a data scientists bread-and-butter, whilst Java and Scala are exclusively reserved for the Data Engineer.
 
-## Data activities
+- **Data-driven decision 1**: Whichever role you decide upon, learning SQL is always going to be helpful! To deal with data you need to deal with databases, and to deal with databases you need SQL :relieved:
 
-> How do the different jobs everyday activties differ?
+**Note**: We excluded other tools and progrmaming languages because they were not referenced in the dataset.
 
-![Fig 2 - Data activites](activites_data_vs.png)
+## Daily activities
 
-**Insight:** It can be seen that a data analyst spends their time developing dashboards, reports and visualisations - developing analyses and insights. A data engineer is more focused towards developing data pipelines and infrastructure, including ETL and data warehousing. On the other hand, data scientists work to train machine leaning models, test models, conduct feature engineering and derive insights.
+> How do the everyday activties of the roles differ?
 
-## Data degrees
+![Fig 2 - Data-related daily activites associated with each role](activites_data_vs.png)
 
-> Which degrees are most in demand for these positions?
+It can be seen that a data analyst spends their time developing dashboards, reports and visualisations towards making analyses and insights. A data engineer is more focused towards developing data pipelines and infrastructure, including ETL and data warehousing. On the other hand, data scientists work to train machine leaning models, test models, conduct feature engineering and derive insights.
 
-![Fig 2 - In-demand degrees](degree_data_vs.png)
+- **Data-driven decision 2**: If you're not so comfortable programming, going for a data analyst role might be more suitable. :sparkles:
 
-**Insight:** Data analysts typically come from statistics, finance or economics background (also business but this was excluded from the study). Data scientists tend to get a bit deeper into algorithms and therefore there is a need for mathematics/physics/statistics. A data engineer builds data software and architectures hence a high demand for a computer science background.
+## University degrees
+
+> Which university degrees are most in demand for these positions?
+
+![Fig 3 - In-demand university degrees associated with each role](degree_data_vs.png)
+
+Data analysts typically come from statistics, finance or economics background (also business but this was excluded from the study). Data scientists tend to get a bit deeper into algorithms, and lower level programming, and therefore there is a need for a mathematics, physics or statistics background. A data engineer builds data software and architectures hence a high demand for a computer science background.
+
+Keep in mind, a job advert is just a guess from the hiring managers towards what their ideal person might look like, so even if you don't come from this academic background, don't be deterred! :muscle:
+
+- **Data-driven decision 3**: Build on the experience you have already, and choose a degree path which matches your individual goals :construction_worker:
 
 ## In closing
 
-Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.
+Hopefully this overview gives you more confidence in your data job journey, of course you have to remain critical of any data analysis (like the one above) and consider your own path, but this shines some light on the topic! 
 
 > Something you'd like to add? If you have any questions or comments, feel free to add your thoughts below! Or message me on LinkedIn!
