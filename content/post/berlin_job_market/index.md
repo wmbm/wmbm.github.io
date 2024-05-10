@@ -12,7 +12,7 @@ tags:
 comments: true
 ---
 
-So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? **Well... look no further!**
+So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? **Well... look no further!** 
 
 > _**TLDR**: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS  (also consider one Apache tool, like Spark or Airflow)_
 
