@@ -1,7 +1,7 @@
 ---
 title: Does petitioning the Government really work?
 description: A winding tale of accessing open-source datasets (Part 1)
-date: 2024-01-01
+date: 2024-06-11
 image: ukpetitions.jpg
 categories:
     - Datasets
