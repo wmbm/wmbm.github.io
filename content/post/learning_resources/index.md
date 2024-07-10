@@ -1,7 +1,7 @@
 ---
 title: Resources for learning data science
 description: Where to start & personal recommendations
-date: 2024-10-10
+date: 2020-01-01
 image: tech_skyline_col.jpg
 categories:
     - Teaching

@@ -29,8 +29,8 @@ My personalized training sessions cater to individuals or groups seeking profici
 
 |           |           |
 | --------- | --------- |
-| <img src="StartSteps.jpeg" height="50" width="200"> | [Startsteps](https://startsteps.org/en ) is a coding bootcamp based in Berlin with whom I developed a delivered a introductory course to data handling with Python for the Women in Tech group at Zalando.|
-| [Career foundry](https://careerfoundry.com/) is an online tech school with whom I helped develop their **Machine Learning with Python** specialization course. | <img src="Career-Foundry.png" height="50" width="200"> |
+| "<img src="StartSteps.jpeg" height="50" alt="Start steps" width="200"> | [Startsteps](https://startsteps.org/en) is a coding bootcamp based in Berlin with whom I developed a delivered a introductory course to data handling with Python for the Women in Tech group at Zalando.|
+| [Career foundry](https://careerfoundry.com/) is an online tech school with whom I helped develop their **Machine Learning with Python** specialization course. | <img src="Career-Foundry.png" height="50" alt="Career foundry" width="200"> |
 | <img src="GISMA.png" height="100" width="300"> | [GISMA University of Applied Sciences](https://www.gisma.com/) provides masters and bachelors courses.I developed multiple of their courses including **advanced programming** and **introduction to Python** |
 | [Arden University Berlin](https://arden.ac.uk/berlin) provides a range of masters and bachelors course. With them I delivered lectures on computing topics, and well as developing their **Industry Relevant Tools** training series for Python & Django | <img src="Arden.png" height="100" width="200"> |
 
