@@ -1,7 +1,7 @@
 ---
 title: Resources for learning data science
 description: Where to start & personal recommendations
-date: 2020-01-01
+date: 2024-07-25
 image: Collaborate.jpg
 categories:
     - Teaching
