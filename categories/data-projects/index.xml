@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Projects on William Baker Morrison</title><link>https://wmbm.github.io/categories/data-projects/</link><description>Recent content in Data Projects on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/categories/data-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>CEO wage gap in the top 3000 US companies</title><link>https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/</guid><description>&lt;img src="https://wmbm.github.io/p/ceo-wage-gap-in-the-top-3000-us-companies/CEO_wage_gap2.png" alt="Featured image of post CEO wage gap in the top 3000 US companies" />&lt;p>Over the past 50 years the CEO wage gap has dramatically increased.&lt;/p>
+&lt;p>In this mini-project, I wanted to created some visualisations to communicate this difference impactfully.&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>Checkout the full code &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/eda-ceo-vs-worker-pay-2023" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p></description></item><item><title>NBA Players</title><link>https://wmbm.github.io/p/nba-players/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/nba-players/</guid><description>&lt;img src="https://wmbm.github.io/p/nba-players/nba2.png" alt="Featured image of post NBA Players" />&lt;p>&lt;strong>Dataset&lt;/strong>: NBA players between 1990-2022&lt;/p>
+&lt;p>&lt;strong>Problem&lt;/strong>: Find how the game has changed over the eras&lt;/p>
+&lt;p>To explore the code on my &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/nba-players-eda-svm-visualisations" target="_blank" rel="noopener"
+>Kaggle site&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

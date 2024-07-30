@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching on William Baker Morrison</title><link>https://wmbm.github.io/categories/teaching/</link><description>Recent content in Teaching on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml"/><item><title>Resources for learning data science</title><link>https://wmbm.github.io/p/resources-for-learning-data-science/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/resources-for-learning-data-science/</guid><description>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/Collaborate.jpg" alt="Featured image of post Resources for learning data science" />&lt;p>For data analysts and scientists (and other tech-job seekers), there are numerous online resources, communities, and platforms that can help with learning, networking, and staying updated with the latest trends and technologies.&lt;/p>
+&lt;p>But there are so many(!) and it might be overwhelming, so here are some key resources that I’d personally recommend to get you started:&lt;/p>
+&lt;h2 id="online-communities">Online Communities
+&lt;/h2>&lt;ol>
+&lt;li>&lt;strong>Kaggle Learn &amp;amp; Competitions&lt;/strong> - The best place to start is probably with one of &lt;a class="link" href="https://www.kaggle.com/learn" target="_blank" rel="noopener"
+>Kaggle Learn tutorials&lt;/a>, sign up with your email and then they will guide you through a practice competition. Otherwise, search for interesting &lt;a class="link" href="https://www.kaggle.com/datasets" target="_blank" rel="noopener"
+>datasets&lt;/a> and publish your own notebooks, which you can then discuss with others, ask questions and learn from the community. For example try their &lt;a class="link" href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener"
+>Intro to Machine Learning&lt;/a> mini-course.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn.png"
+width="1419"
+height="752"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn_hu213493cb543368d95f861b8dcdf9326c_139461_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn_hu213493cb543368d95f861b8dcdf9326c_139461_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Courses available on Kaggle learn"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="452px"
+>&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;strong>Stack Overflow&lt;/strong> - The world’s biggest community of software developers, a go-to for asking programming questions and finding solutions. You can also learn by helping others out, and making the community better by becoming a moderator. How to start? Have a look through the &lt;a class="link" href="https://meta.stackoverflow.com/questions/251225/faq-index-for-stack-overflow" target="_blank" rel="noopener"
+>FAQs&lt;/a> with some beginner guides and tips on asking questions. You might also want to checkout &lt;a class="link" href="https://stats.stackexchange.com/" target="_blank" rel="noopener"
+>&lt;em>Cross Validated&lt;/em> &lt;/a> their sister website focusing on more techincal questions related to statistics, machine learning and data analysis.&lt;/li>
+&lt;/ol>
+&lt;h2 id="learning-platforms">Learning Platforms
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Coursera&lt;/strong> - Offers courses and specializations in data science and machine learning from top universities and companies (specifically &lt;a class="link" href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener"
+>ML specialisation by Andrew Ng&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>edX&lt;/strong> - Provides data science courses from institutions like MIT, Harvard, and Microsoft. (like this &lt;a class="link" href="https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python?index=product&amp;amp;queryID=6da067b3a66ffcc3a1f1ecba20ba3c93&amp;amp;position=1&amp;amp;results_level=first-level-results&amp;amp;term=data&amp;#43;science&amp;amp;objectID=course-c2004e8e-3882-4927-a883-1c5f39a28865&amp;amp;campaign=Introduction&amp;#43;to&amp;#43;Data&amp;#43;Science&amp;#43;with&amp;#43;Python&amp;amp;source=edX&amp;amp;product_category=course&amp;amp;placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch" target="_blank" rel="noopener"
+>Introduction to Data science&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="blogs-and-websites">Blogs and Websites
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>W3Schools&lt;/strong> - One of the most accessible and easy-to-follow tutorial blogs on Python, &lt;a class="link" href="https://www.w3schools.com/datascience/default.asp" target="_blank" rel="noopener"
+>Data Science&lt;/a>, PostgreSQL and more! It won&amp;rsquo;t go into great depth, but provides you with all the fundamentals you&amp;rsquo;ll need to get started on a topic.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Analytics Vidhya&lt;/strong> - Provides articles, hackathons, and a community forum for data science professionals. Check-out their guides, for a nice holitic overview of a topic, like this one on &lt;a class="link" href="https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/" target="_blank" rel="noopener"
+>linear regression&lt;/a> going from all the theory aspects to Python implementations.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Machine Learning Mastery&lt;/strong> - Provides very high quality learning content, like this guide on &lt;a class="link" href="https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/" target="_blank" rel="noopener"
+>Docker for beginners&lt;/a> often going in a little deeper than some other sites, but still accessible.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/MLM.png"
+width="1540"
+height="872"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/MLM_huc716145829424a8c3f93fe465f29fac4_237584_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/MLM_huc716145829424a8c3f93fe465f29fac4_237584_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Machine Learning Mastering website"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="423px"
+>&lt;/p>
+&lt;ol start="4">
+&lt;li>
+&lt;p>&lt;strong>DataCamp&lt;/strong> - contains many useful walkthroughs and articles on their &lt;a class="link" href="https://www.datacamp.com/tutorial/category/ai" target="_blank" rel="noopener"
+>blog&lt;/a> and they even offer a &lt;a class="link" href="https://www.datacamp.com/certification/data-scientist?irgwc=1&amp;amp;utm_medium=affiliate&amp;amp;utm_source=impact&amp;amp;utm_campaign=000000_1-2302977_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Guiding%20Tech%20Media&amp;amp;utm_content=ONLINE_TRACKING_LINK&amp;amp;utm_term=" target="_blank" rel="noopener"
+>Data Science certification&lt;/a> which would be a nice addition for your CV!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Stats LibreTexts&lt;/strong> - Free and open-source learning resource for statistics! Their &lt;a class="link" href="https://stats.libretexts.org/Bookshelves/Introductory_Statistics" target="_blank" rel="noopener"
+>introduction to statistics&lt;/a> is perfect textbook for beginners who need to remember the difference between a standard deviation and a variance.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="networking-and-events">Networking and Events
+&lt;/h2>&lt;ol>
+&lt;li>&lt;strong>Meetup&lt;/strong> - Although not quite was it used to be, on Meetup you can find local and online tech meetups and events, like this &lt;a class="link" href="https://www.meetup.com/de-DE/dcpython/events/300478216/?recId=266f8762-9538-427f-a3b8-cd3987d7f705&amp;amp;recSource=keyword_search&amp;amp;searchId=e687dc52-adae-4e38-88c5-fac622b0ce08" target="_blank" rel="noopener"
+>Python meetup&lt;/a> great for learning and networking!&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data.png"
+width="1421"
+height="767"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data_huc9fca5b3229adcafb48bb08e33389dd7_235390_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data_huc9fca5b3229adcafb48bb08e33389dd7_235390_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Figure 3 - Search for local or online"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="444px"
+>&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;strong>Tech conferences and festivals&lt;/strong> - Big cities often host interesting conferences and festivals, some free, some paid. For example, checkout the &lt;a class="link" href="https://greentechfestival.com/" target="_blank" rel="noopener"
+>Green-tech festival&lt;/a> coming to Berlin in 2025, or the &lt;a class="link" href="https://www.open-science-conference.eu/" target="_blank" rel="noopener"
+>Open Science Conference&lt;/a>. More often than not, you&amp;rsquo;ll be at least be able to attend online for free!&lt;/li>
+&lt;/ol>
+&lt;h2 id="news-and-updates">News and Updates
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Newsletters&lt;/strong> -Stay up to date with news and trends by following a weekly like this one by &lt;a class="link" href="https://opendatascience.com/newsletter/" target="_blank" rel="noopener"
+>Open Data Science&lt;/a> or &lt;a class="link" href="https://datatalks.club/" target="_blank" rel="noopener"
+>Data Talks Club&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>MIT Technology Review&lt;/strong> - The &lt;a class="link" href="https://www.technologyreview.com/" target="_blank" rel="noopener"
+>MIT Technology review&lt;/a> site gives a nice curated overview of technology news often with a critical perspective.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>These resources can help you stay informed, enhance your skills, and connect with other professionals in the field of data science and analytics.&lt;/p>
+&lt;p>&lt;strong>Any more resources you&amp;rsquo;d like to add to the list? Add your comments below&lt;/strong>&lt;/p></description></item><item><title>Critical use of digital tools (PGCert)</title><link>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</link><pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/</guid><description>&lt;img src="https://wmbm.github.io/p/critical-use-of-digital-tools-pgcert/critical_digital_peda.png" alt="Featured image of post Critical use of digital tools (PGCert)" />&lt;p>This video lecture was part of the Post-graduate Certificate I completed in 2023, focusing on digital pedagogies in practice. Part of this involved critical evaluating digital tools for collabaorative learning. Here we looked at diagrams.net, a open-source, cloud-based diagramming software. If you&amp;rsquo;re an educator or facilitator this tool would certainly be of interest to you!&lt;/p>
+&lt;p>Here&amp;rsquo;s &lt;a class="link" href="https://www.drawio.com/" target="_blank" rel="noopener"
+>the site&lt;/a> if you want to try it out yourself.&lt;/p>
+&lt;h2 id="part-1">Part 1
+&lt;/h2>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/gm2l0HZBKDY"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="part-2">Part 2
+&lt;/h2>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/OndZyMMSvLk"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

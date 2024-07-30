@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Webscraping on William Baker Morrison</title><link>https://wmbm.github.io/tags/webscraping/</link><description>Recent content in Webscraping on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/tags/webscraping/index.xml" rel="self" type="application/rss+xml"/><item><title>Do government petitions actually make an difference?</title><link>https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/</guid><description>&lt;img src="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/ukpetitions.jpg" alt="Featured image of post Do government petitions actually make an difference?" />&lt;blockquote>
+&lt;p>&lt;strong>TLDR&lt;/strong>: Petitions have been around for hundreds of years, used by the powerful and the poor alike to advocate for change. In the 21st century, government petitions are still popular, and governments proactively collect and store data relating to signature counts and petition outcomes. However, the accessibility and usage of these datasets are non-optimal. Therefore, I developed a web scraper to gather and publish an open dataset of all UK government petitions available &lt;a class="link" href="https://www.kaggle.com/datasets/wilomentena/uk-government-petitions?select=petitions_all.csv" target="_blank" rel="noopener"
+>here&lt;/a>. Future work will discover trends in this dataset, and scrutinise the effectiveness of this form of participatory democracy.&lt;/p>
+&lt;/blockquote>
+&lt;p>We often see petitions on our social media platforms demanding our governments do all sorts of things like “make Fridays a national pyjama day” or “Declare ice cream an essential service”, but do they change anything?&lt;/p>
+&lt;p>For context, let&amp;rsquo;s first look into how petitioning came about in the first place&amp;hellip;&lt;/p>
+&lt;h2 id="a-brief-history-of-petitioning">A brief history of petitioning
+&lt;/h2>&lt;p>This bottom-up approach to direct democracy has a rich and fascinating history. The right to petition was written into the Magna Carta back in 1215, a foundational document in the history of European democracy, which &lt;a class="link" href="https://babel.hathitrust.org/cgi/pt?id=pst.000017915496&amp;amp;view=1up&amp;amp;seq=476&amp;amp;skin=2021&amp;amp;q1=1340" target="_blank" rel="noopener"
+>established a Commission&lt;/a> [1] that:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>&amp;ldquo;at every Parliament to hear by petition delivered to them, the Complaints of all those that will complain them of such Delays or Grievances done to them&amp;rdquo;&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>So, listen to the people! Well, at the time, it was more like listening to the church, rich landowners, and nobility. However, this precedent of petitioning paved the way for its inclusion in the 1689 UK Bill of Rights, which set out other basic civil rights such as free elections and freedom of speech for all subjects.&lt;/p>
+&lt;p>Petitioning was also widespread in &lt;a class="link" href="https://openyls.law.yale.edu/bitstream/handle/20.500.13051/16443/14_96YaleLJ142_November1986_.pdf?sequence=2&amp;amp;isAllowed=y" target="_blank" rel="noopener"
+>18th-Century North America&lt;/a> [2], inspired by the UK Bill of Rights. Emerging colonial assemblies, keen to resolve local disputes, encouraged petitions to validate their control and keep the colonisers from infighting. This was a time before the internet, and ruling powers needed the information to govern effectively. In this sense, petitioning was historically seen as an instrument of the elite and the state rather than a tool for the people.&lt;/p>
+&lt;p>In 1775, tensions between the North American colonies and Great Britain peaked, when the &lt;a class="link" href="https://en.wikipedia.org/wiki/Olive_Branch_Petition" target="_blank" rel="noopener"
+>Olive Branch Petition&lt;/a> [3] which was not even read by King George III, led to the American Revolutionary War and the eventual Declaration of Independence. So, indirectly, without petitions, there would be no USA!&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/olivebranch.png"
+width="543"
+height="492"
+srcset="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/olivebranch_hu8c8e549f2dd98f06d53132dcaea41171_358763_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/olivebranch_hu8c8e549f2dd98f06d53132dcaea41171_358763_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The olive branch petition signed by an American Founding Father"
+class="gallery-image"
+data-flex-grow="110"
+data-flex-basis="264px"
+>&lt;/p>
+&lt;p>After the war, petitioning continued to be an important bureaucratic tool, and it was enshrined in the United States Bill of Rights in 1791. In some cases &amp;ndash; women, criminals, indigenous peoples, and even slaves &amp;ndash; voiced their grievances through petitions. However, as a backlog of petitions grew, a sense of unequal hearing developed and the influence of petitions was put to question, particularly during the rise of the abolition movement, which eventually resulted in a &lt;a class="link" href="https://en.wikipedia.org/wiki/Gag_rule_%28United_States%29" target="_blank" rel="noopener"
+>controversial ban on anti-slavery petitions&lt;/a> [4] by the House of Representatives:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>No petitions of resolutions &amp;ldquo;praying the abolition of slavery&amp;hellip; shall be received by this House, or entertained in any way whatever&amp;rdquo;&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Despite such barriers, abolitionist petitions provided a platform to articulate their anti-slavery arguments and mobilize public sentiment. Over time, the accumulation of their petitions contributed to legislative debates and ultimately culminated in the abolition of slavery in 1865.&lt;/p>
+&lt;p>Today, the right to petition remains a continued aspect of democratic societies around the world. In the digital age, online petitions have amplified this practice, allowing for wider participation and awareness. The historical evolution of petitioning highlights its enduring importance as a tool for advocacy and change, reminding us of the possibilities that collective voices can have to shape society and influence governance.&lt;/p>
+&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>Back to now, what happens to these petitions to the UK parliament? And which ones actually lead to concrete change?&lt;/p>
+&lt;p>Well I wanted to find out, and thankfully under an &lt;a class="link" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank" rel="noopener"
+>Open Government Licence&lt;/a> [5] the UK government publishes records of all petitions submitted and processed by the &lt;a class="link" href="https://committees.parliament.uk/committee/326/petitions-committee/" target="_blank" rel="noopener"
+>Petitions Committee&lt;/a> [6]. So I went to the &lt;a class="link" href="https://petition.parliament.uk/petitions" target="_blank" rel="noopener"
+>UK government petition website&lt;/a> [7] to access the freely available data. However, as I came to find out, the tricky part is that “open-data” often translates to “data behind multiple little hurdles”.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>“open-data” often translates to “data behind multiple little hurdles”&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Furthermore, there was no analysis provided; which I found curious. Which led me to ask: if the objective of this committee was truly noble, wouldn’t you expect they do their utmost to utilize and communicate the insights and findings from their own data? With millions of signatures submitted over the past decade, at the very least, this dataset is an invaluable barometer for public opinion.&lt;/p>
+&lt;h2 id="the-problem">The problem
+&lt;/h2>&lt;p>The website directory of &lt;a class="link" href="https://petition.parliament.uk/archived/petitions?parliament=3&amp;amp;parliament=3&amp;amp;state=all" target="_blank" rel="noopener"
+>“all petitions”&lt;/a> contains hundreds of pages, each with individual CSV or JSON files (a standard type of data file format). No-one has the time to click through all these, download and process them individually. &lt;strong>How can we tame them?&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/next_page2.png"
+width="687"
+height="553"
+srcset="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/next_page2_huf89b78e1df169868439adaf2b14f48ba_86591_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/next_page2_huf89b78e1df169868439adaf2b14f48ba_86591_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Hundreds of separate pages, each with their own files"
+class="gallery-image"
+data-flex-grow="124"
+data-flex-basis="298px"
+>&lt;/p>
+&lt;p>Well firstly better standards. And rather unfortunately for post-Brexit UK, from April 2024, the &lt;a class="link" href="https://data.europa.eu/en/news-events/news/embracing-open-standards-open-data-ecosystem-interoperability-across-europe" target="_blank" rel="noopener"
+>Interoperable Europe Act&lt;/a> [8] will help towards this in all European member state governmental data portals - encouraging better standardisation and ensuring interoperability, a process which the UK will be left out of.&lt;/p>
+&lt;p>Certainly, the current design of the UK petition data portal may have saved the developers time when building it (e.g. alleviate potential server load issues), however, the inability to allow full-batch downloads remains cumbersome and, I would argue, poses a significant obstacle to open-data portals and government transparency initiatives more generally - by creating huge friction in the access and acquisition of the data.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/file_links.png"
+width="660"
+height="726"
+srcset="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/file_links_huf1c4f15ac25b6147f6895d786a53eea3_85220_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/file_links_huf1c4f15ac25b6147f6895d786a53eea3_85220_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="A myriad of links with hidden subsections"
+class="gallery-image"
+data-flex-grow="90"
+data-flex-basis="218px"
+>&lt;/p>
+&lt;p>On top of this, petitions submitted under previous Governments are tucked away in an “archived” section at the bottom of the page, again with multiple sub-links and no batch downloads possible.&lt;/p>
+&lt;p>While some of the smaller UK political parties acknowledge the failures of Brexit, talk of the UK returning to the EU single market, and re-adopting EU law, until then, we must either pray for a progressive &amp;amp; tech-minded UK government or get hacking!&lt;/p>
+&lt;h2 id="the-solution">The solution
+&lt;/h2>&lt;p>Luckily, that’s where the power of web-scraping comes in 💪 We can write scripts to automate this task. By creating a web scraper in Python (and the &lt;a class="link" href="https://selenium-python.readthedocs.io/" target="_blank" rel="noopener"
+>Selenium library&lt;/a>) [9], we can guide a bot to automatically turn through each webpage and download the individual data files from each of the seperate sub-directories.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/scraper.gif"
+width="400"
+height="331"
+srcset="https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/scraper_hu1e7f933473a8672be1068f4611aacf8d_298575_480x0_resize_box_1.gif 480w, https://wmbm.github.io/p/do-government-petitions-actually-make-an-difference/scraper_hu1e7f933473a8672be1068f4611aacf8d_298575_1024x0_resize_box_1.gif 1024w"
+loading="lazy"
+alt="The web scraper in action"
+class="gallery-image"
+data-flex-grow="120"
+data-flex-basis="290px"
+>&lt;/p>
+&lt;p>Above you can see the scraper in action, running through all the pages, and downloading the files faster than we ever could, ending up with around ~2000 files! It&amp;rsquo;s worth noting, that the only problem with these tools is that we must build a custom script for every unique website, each having their own unique map around their website. However, now that we have one for the petitions website, whenever we want to update our database with newly published petitions, we can just re-run our web scraper.&lt;/p>
+&lt;p>After each of the files were downloaded, some cleaning and tidying was necessary, after which we could combine all the petition data into &lt;strong>ONE SINGLE SOURCE&lt;/strong>!&lt;/p>
+&lt;blockquote>
+&lt;p>And you can access the &lt;a class="link" href="https://www.kaggle.com/datasets/wilomentena/uk-government-petitions?select=petitions_all.csv" target="_blank" rel="noopener"
+>full dataset here&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>So now we’ve got the data, we can finally begin with the analysis (to be continued&amp;hellip;)&lt;/p>
+&lt;h2 id="upcoming-analysis">Upcoming analysis
+&lt;/h2>&lt;p>The overall research questions will include:&lt;/p>
+&lt;ul>
+&lt;li>Of those petitions debated in parliament, how many led to new government initiatives?&lt;/li>
+&lt;li>Which petition topics are most requested?&lt;/li>
+&lt;li>What are the main reasons petitions to get rejected?&lt;/li>
+&lt;li>How many voices (i.e. petition signatures) were listened to and how many went unheard?&lt;/li>
+&lt;li>How has the number of petitions and signatures changed over time&lt;/li>
+&lt;/ul>
+&lt;p>Tune in for Part 2, where I&amp;rsquo;ll be diving into some insights uncovered from this dataset.&lt;/p>
+&lt;p>&lt;strong>Want to contribute to this project? Feel free to start your own code space on Kaggle&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below! Or message me on LinkedIn&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="sources">Sources
+&lt;/h2>&lt;ol>
+&lt;li>&lt;a class="link" href="https://babel.hathitrust.org/cgi/pt?id=pst.000017915496&amp;amp;view=1up&amp;amp;seq=476&amp;amp;skin=2021&amp;amp;q1=1340" target="_blank" rel="noopener"
+>Statutes of the Realm, Edward III, 1312&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://openyls.law.yale.edu/bitstream/handle/20.500.13051/16443/14_96YaleLJ142_November1986_.pdf?sequence=2&amp;amp;isAllowed=y" target="_blank" rel="noopener"
+>A Short History of the Right To Petition Government for the Redress of Grievances, S. Higgson, Yale Law Journal, 1986&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Olive_Branch_Petition" target="_blank" rel="noopener"
+>Olive Branch Petition Wikipedia Page&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Gag_rule_%28United_States%29" target="_blank" rel="noopener"
+>Gag rule which banned anti-slavery petitions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank" rel="noopener"
+>Open Government Licence&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://committees.parliament.uk/committee/326/petitions-committee/" target="_blank" rel="noopener"
+>Petitions Committee website&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://petition.parliament.uk/petitions" target="_blank" rel="noopener"
+>UK government petition website&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://data.europa.eu/en/news-events/news/embracing-open-standards-open-data-ecosystem-interoperability-across-europe" target="_blank" rel="noopener"
+>Interoperable Europe Act, European Union, 2024&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://selenium-python.readthedocs.io/" target="_blank" rel="noopener"
+>Selenium Python web scraper library&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>

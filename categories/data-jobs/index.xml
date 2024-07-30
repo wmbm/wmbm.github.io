@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Jobs on William Baker Morrison</title><link>https://wmbm.github.io/categories/data-jobs/</link><description>Recent content in Data Jobs on William Baker Morrison</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wmbm.github.io/categories/data-jobs/index.xml" rel="self" type="application/rss+xml"/><item><title>Resources for learning data science</title><link>https://wmbm.github.io/p/resources-for-learning-data-science/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/resources-for-learning-data-science/</guid><description>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/Collaborate.jpg" alt="Featured image of post Resources for learning data science" />&lt;p>For data analysts and scientists (and other tech-job seekers), there are numerous online resources, communities, and platforms that can help with learning, networking, and staying updated with the latest trends and technologies.&lt;/p>
+&lt;p>But there are so many(!) and it might be overwhelming, so here are some key resources that I’d personally recommend to get you started:&lt;/p>
+&lt;h2 id="online-communities">Online Communities
+&lt;/h2>&lt;ol>
+&lt;li>&lt;strong>Kaggle Learn &amp;amp; Competitions&lt;/strong> - The best place to start is probably with one of &lt;a class="link" href="https://www.kaggle.com/learn" target="_blank" rel="noopener"
+>Kaggle Learn tutorials&lt;/a>, sign up with your email and then they will guide you through a practice competition. Otherwise, search for interesting &lt;a class="link" href="https://www.kaggle.com/datasets" target="_blank" rel="noopener"
+>datasets&lt;/a> and publish your own notebooks, which you can then discuss with others, ask questions and learn from the community. For example try their &lt;a class="link" href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener"
+>Intro to Machine Learning&lt;/a> mini-course.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn.png"
+width="1419"
+height="752"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn_hu213493cb543368d95f861b8dcdf9326c_139461_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/Kaggle_Learn_hu213493cb543368d95f861b8dcdf9326c_139461_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Courses available on Kaggle learn"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="452px"
+>&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;strong>Stack Overflow&lt;/strong> - The world’s biggest community of software developers, a go-to for asking programming questions and finding solutions. You can also learn by helping others out, and making the community better by becoming a moderator. How to start? Have a look through the &lt;a class="link" href="https://meta.stackoverflow.com/questions/251225/faq-index-for-stack-overflow" target="_blank" rel="noopener"
+>FAQs&lt;/a> with some beginner guides and tips on asking questions. You might also want to checkout &lt;a class="link" href="https://stats.stackexchange.com/" target="_blank" rel="noopener"
+>&lt;em>Cross Validated&lt;/em> &lt;/a> their sister website focusing on more techincal questions related to statistics, machine learning and data analysis.&lt;/li>
+&lt;/ol>
+&lt;h2 id="learning-platforms">Learning Platforms
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Coursera&lt;/strong> - Offers courses and specializations in data science and machine learning from top universities and companies (specifically &lt;a class="link" href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener"
+>ML specialisation by Andrew Ng&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>edX&lt;/strong> - Provides data science courses from institutions like MIT, Harvard, and Microsoft. (like this &lt;a class="link" href="https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python?index=product&amp;amp;queryID=6da067b3a66ffcc3a1f1ecba20ba3c93&amp;amp;position=1&amp;amp;results_level=first-level-results&amp;amp;term=data&amp;#43;science&amp;amp;objectID=course-c2004e8e-3882-4927-a883-1c5f39a28865&amp;amp;campaign=Introduction&amp;#43;to&amp;#43;Data&amp;#43;Science&amp;#43;with&amp;#43;Python&amp;amp;source=edX&amp;amp;product_category=course&amp;amp;placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch" target="_blank" rel="noopener"
+>Introduction to Data science&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="blogs-and-websites">Blogs and Websites
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>W3Schools&lt;/strong> - One of the most accessible and easy-to-follow tutorial blogs on Python, &lt;a class="link" href="https://www.w3schools.com/datascience/default.asp" target="_blank" rel="noopener"
+>Data Science&lt;/a>, PostgreSQL and more! It won&amp;rsquo;t go into great depth, but provides you with all the fundamentals you&amp;rsquo;ll need to get started on a topic.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Analytics Vidhya&lt;/strong> - Provides articles, hackathons, and a community forum for data science professionals. Check-out their guides, for a nice holitic overview of a topic, like this one on &lt;a class="link" href="https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/" target="_blank" rel="noopener"
+>linear regression&lt;/a> going from all the theory aspects to Python implementations.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Machine Learning Mastery&lt;/strong> - Provides very high quality learning content, like this guide on &lt;a class="link" href="https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/" target="_blank" rel="noopener"
+>Docker for beginners&lt;/a> often going in a little deeper than some other sites, but still accessible.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/MLM.png"
+width="1540"
+height="872"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/MLM_huc716145829424a8c3f93fe465f29fac4_237584_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/MLM_huc716145829424a8c3f93fe465f29fac4_237584_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Machine Learning Mastering website"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="423px"
+>&lt;/p>
+&lt;ol start="4">
+&lt;li>
+&lt;p>&lt;strong>DataCamp&lt;/strong> - contains many useful walkthroughs and articles on their &lt;a class="link" href="https://www.datacamp.com/tutorial/category/ai" target="_blank" rel="noopener"
+>blog&lt;/a> and they even offer a &lt;a class="link" href="https://www.datacamp.com/certification/data-scientist?irgwc=1&amp;amp;utm_medium=affiliate&amp;amp;utm_source=impact&amp;amp;utm_campaign=000000_1-2302977_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Guiding%20Tech%20Media&amp;amp;utm_content=ONLINE_TRACKING_LINK&amp;amp;utm_term=" target="_blank" rel="noopener"
+>Data Science certification&lt;/a> which would be a nice addition for your CV!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Stats LibreTexts&lt;/strong> - Free and open-source learning resource for statistics! Their &lt;a class="link" href="https://stats.libretexts.org/Bookshelves/Introductory_Statistics" target="_blank" rel="noopener"
+>introduction to statistics&lt;/a> is perfect textbook for beginners who need to remember the difference between a standard deviation and a variance.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="networking-and-events">Networking and Events
+&lt;/h2>&lt;ol>
+&lt;li>&lt;strong>Meetup&lt;/strong> - Although not quite was it used to be, on Meetup you can find local and online tech meetups and events, like this &lt;a class="link" href="https://www.meetup.com/de-DE/dcpython/events/300478216/?recId=266f8762-9538-427f-a3b8-cd3987d7f705&amp;amp;recSource=keyword_search&amp;amp;searchId=e687dc52-adae-4e38-88c5-fac622b0ce08" target="_blank" rel="noopener"
+>Python meetup&lt;/a> great for learning and networking!&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data.png"
+width="1421"
+height="767"
+srcset="https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data_huc9fca5b3229adcafb48bb08e33389dd7_235390_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/resources-for-learning-data-science/meetup_data_huc9fca5b3229adcafb48bb08e33389dd7_235390_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Figure 3 - Search for local or online"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="444px"
+>&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;strong>Tech conferences and festivals&lt;/strong> - Big cities often host interesting conferences and festivals, some free, some paid. For example, checkout the &lt;a class="link" href="https://greentechfestival.com/" target="_blank" rel="noopener"
+>Green-tech festival&lt;/a> coming to Berlin in 2025, or the &lt;a class="link" href="https://www.open-science-conference.eu/" target="_blank" rel="noopener"
+>Open Science Conference&lt;/a>. More often than not, you&amp;rsquo;ll be at least be able to attend online for free!&lt;/li>
+&lt;/ol>
+&lt;h2 id="news-and-updates">News and Updates
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Newsletters&lt;/strong> -Stay up to date with news and trends by following a weekly like this one by &lt;a class="link" href="https://opendatascience.com/newsletter/" target="_blank" rel="noopener"
+>Open Data Science&lt;/a> or &lt;a class="link" href="https://datatalks.club/" target="_blank" rel="noopener"
+>Data Talks Club&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>MIT Technology Review&lt;/strong> - The &lt;a class="link" href="https://www.technologyreview.com/" target="_blank" rel="noopener"
+>MIT Technology review&lt;/a> site gives a nice curated overview of technology news often with a critical perspective.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>These resources can help you stay informed, enhance your skills, and connect with other professionals in the field of data science and analytics.&lt;/p>
+&lt;p>&lt;strong>Any more resources you&amp;rsquo;d like to add to the list? Add your comments below&lt;/strong>&lt;/p></description></item><item><title>What sets apart the different data-roles?</title><link>https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/</link><pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/</guid><description>&lt;img src="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/banner_data_vs_final.png" alt="Featured image of post What sets apart the different data-roles?" />&lt;p>So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? &lt;strong>Well&amp;hellip; look no further!&lt;/strong>&lt;/p>
+&lt;p>In this exploratory data analysis (EDA), we&amp;rsquo;ll explore data-related tech roles posted on LinkedIn to investigate which tools, activites and degrees are expected in these roles, and what is most in demand, to help you align yourself in your job-search. Let&amp;rsquo;s get into it!&lt;/p>
+&lt;h2 id="analysis-tools">Analysis tools
+&lt;/h2>&lt;blockquote>
+&lt;p>So what is the difference between the tools you will be using in each job?&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/technologies_data_vs.png"
+width="866"
+height="667"
+srcset="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/technologies_data_vs_hu9ba6b0ab58d7eb04a72401d855b1b68d_62875_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/technologies_data_vs_hu9ba6b0ab58d7eb04a72401d855b1b68d_62875_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Data tools and programming languages associated with each role"
+class="gallery-image"
+data-flex-grow="129"
+data-flex-basis="311px"
+>&lt;/p>
+&lt;p>Data analyst roles typically use more high-level tools &amp;amp; software (often without any programming!) like Tableau and Excel. Although it can be seen that SQL is often expected across all data job roles. Python is a data scientists bread-and-butter, whilst Java and Scala are exclusively reserved for the Data Engineer.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Data-driven decision 1&lt;/strong>: Whichever role you decide upon, learning SQL is always going to be helpful! To deal with data you need to deal with databases, and to deal with databases you need SQL &amp;#x1f60c;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note&lt;/strong>: We excluded other tools and progrmaming languages because they were not referenced in the dataset.&lt;/p>
+&lt;h2 id="daily-activities">Daily activities
+&lt;/h2>&lt;blockquote>
+&lt;p>How do the everyday activties of the roles differ?&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/activites_data_vs.png"
+width="866"
+height="667"
+srcset="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/activites_data_vs_hu9ecfc551269b96d3195bad879d711f7a_78867_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/activites_data_vs_hu9ecfc551269b96d3195bad879d711f7a_78867_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Data-related daily activites associated with each role"
+class="gallery-image"
+data-flex-grow="129"
+data-flex-basis="311px"
+>&lt;/p>
+&lt;p>It can be seen that a data analyst spends their time developing dashboards, reports and visualisations towards making analyses and insights. A data engineer is more focused towards developing data pipelines and infrastructure, including ETL and data warehousing. On the other hand, data scientists work to train machine leaning models, test models, conduct feature engineering and derive insights.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Data-driven decision 2&lt;/strong>: If you&amp;rsquo;re not so comfortable programming, going for a data analyst role might be more suitable. &amp;#x2728;&lt;/li>
+&lt;/ul>
+&lt;h2 id="university-degrees">University degrees
+&lt;/h2>&lt;blockquote>
+&lt;p>Which university degrees are most in demand for these positions?&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/degree_data_vs.png"
+width="866"
+height="667"
+srcset="https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/degree_data_vs_hu95e1a583fdcff3569e43f5d7fe1ed807_75663_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-sets-apart-the-different-data-roles/degree_data_vs_hu95e1a583fdcff3569e43f5d7fe1ed807_75663_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 3 - In-demand university degrees associated with each role"
+class="gallery-image"
+data-flex-grow="129"
+data-flex-basis="311px"
+>&lt;/p>
+&lt;p>Data analysts typically come from statistics, finance or economics background (also business but this was excluded from the study). Data scientists tend to get a bit deeper into algorithms, and lower level programming, and therefore there is a need for a mathematics, physics or statistics background. A data engineer builds data software and architectures hence a high demand for a computer science background.&lt;/p>
+&lt;p>Keep in mind, a job advert is just a guess from the hiring managers towards what their ideal person might look like, so even if you don&amp;rsquo;t come from this academic background, don&amp;rsquo;t be deterred! &amp;#x1f4aa; &lt;strong>&lt;em>&amp;ldquo;If you meet all the job requirements, you&amp;rsquo;re overqualified&amp;rdquo;&lt;/em>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Data-driven decision 3&lt;/strong>: Build on the experience you have already, and choose a degree path which matches your individual goals &amp;#x1f477;&lt;/li>
+&lt;/ul>
+&lt;h2 id="in-closing">In closing
+&lt;/h2>&lt;p>Remember that the field of data analysis is constantly evolving, so staying updated with the latest tools, techniques, and technologies is crucial. Engage in continuous learning through online courses, building mini-projects, attending workshops and conferences, reading industry blogs and research papers, and participating in online communities like Stack Overflow, Kaggle or Reddit&amp;rsquo;s data science forums.&lt;/p>
+&lt;p>And follow your interests like a devoted disciple! If you like sports, go into sport-analytics! If you&amp;rsquo;re passionate about the stock-market, get into fin-tech! If you&amp;rsquo;re interested in human rights, get into gov-tech! There&amp;rsquo;s a sub-category of almost every field in the data world, so get curious, and get building! That&amp;rsquo;s the real fuel to mastering any of these skills.&lt;/p>
+&lt;p>Finally, the basics skills in the data field should not be overlooked. Mathematical fundamentals (like the differences between discrete and continous data), critical thinking (like how to formulate research questions) and communication (like reporting nuances in your results) are critical. The must-have tools typically needed are SQL + an analysis tool (like Python), so make sure you&amp;rsquo;re comfortable speaking in these languages.&lt;/p>
+&lt;p>Hopefully this overview gives you more confidence in your data job journey and helps shines some light on the topic!&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below! Or message me on LinkedIn!&lt;/p>
+&lt;/blockquote></description></item><item><title>What programming languages and data analysis tools to learn in 2024</title><link>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/</guid><description>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/banner.png" alt="Featured image of post What programming languages and data analysis tools to learn in 2024" />&lt;p>So you want to move into the data field but are unsure where to focus your energy? So many different tools, roles, programming langauges and technologies - where to start? &lt;strong>Well&amp;hellip; look no further!&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>&lt;strong>TLDR&lt;/strong>: If you want to be competing for Berlin data jobs in 2024, learn Python, SQL and AWS (also consider one Apache tool, like Spark or Airflow)&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>In this blogpost, I will explore some of the results from a descriptive analytics mini-project of +400 job ads from the Berlin tech market in March 2024.&lt;/p>
+&lt;h2 id="programming-languages">Programming languages
+&lt;/h2>&lt;p>Firstly let&amp;rsquo;s investigate the most popular programming langauges in data jobs in Berlin.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/proglang_hubfbb8056f96b71aae402162be539e540_39727_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 1 - Programming languages"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>It&amp;rsquo;s pretty clear that &lt;strong>Python and SQL&lt;/strong> are the most in demand skills, with over a third of all data jobs asking for these skills respectively. The gender-diverse Kings and Queens of data analysis reign supreme! Now this may not be a huge surprise, but what is also interesting to note is the runners up:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Java&lt;/strong> is commonly used for processing and analyzing large amounts of data efficiently.&lt;/li>
+&lt;li>&lt;strong>Scala&lt;/strong> excels at handling big data problems, favored by Apache Spark and compatible with Java..&lt;/li>
+&lt;li>&lt;strong>R&lt;/strong> focuses on statistical analysis, with a large collection of packages for data analysis, visualization, and machine learning.&lt;/li>
+&lt;li>&lt;strong>C++&lt;/strong> is a powerful programming language known for its efficiency, making it ideal for tasks requiring intense processing, like high-frequency trading or complex simulations.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert!&lt;/strong>: Notice how the only two &amp;ldquo;closed-source&amp;rdquo; languages are Matlab and SAS (and those you need to pay to use).&lt;/p>
+&lt;/blockquote>
+&lt;p>Let&amp;rsquo;s move onto data analysis tools&amp;hellip;&lt;/p>
+&lt;h2 id="analysis-tools">Analysis tools
+&lt;/h2>&lt;p>Analysis tools are softwares which make engineers and analysts lives easier as part of their everyday workflow, including things like data visualisation, big data handling, scheduling and more&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/dattools_hud9fa9a5d51b71a4df3f64764601d1d67_38131_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 2 - Data tools"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>Here most people will know &lt;strong>Tableau and Excel&lt;/strong> but what about the other tools?&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Spark&lt;/strong> is an Apache tool that can handle and analyze large amounts of data quickly..&lt;/li>
+&lt;li>&lt;strong>Airflow&lt;/strong> is another Apache tool for setting up and keeping an eye on a series of tasks, such as data processing or machine learning steps&lt;/li>
+&lt;li>&lt;strong>Databricks&lt;/strong> is a platform for storing data and building AI applications (also made by the developers of Apache Spark).&lt;/li>
+&lt;/ul>
+&lt;p>What&amp;rsquo;s the deal with all this &amp;ldquo;&lt;strong>Apache&lt;/strong>&amp;rdquo; software? Well, it&amp;rsquo;s part of the &lt;a class="link" href="https://apache.org/" target="_blank" rel="noopener"
+>Apache Software Foundation&lt;/a> (ASF) a non-profit organization that supports and promotes open-source software projects.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Open-source alert again!&lt;/strong>: With all this free and open-source software (FOSS) around, it&amp;rsquo;s almost surprising that Tableau is still kicking around in the most demanded tools, even though it is propreitary and closed-source, costing around €500-€1000 per year. Do you think there will be a FOSS equivalent within the next 5 years?&lt;/p>
+&lt;/blockquote>
+&lt;p>Next&amp;hellip; let&amp;rsquo;s check out the Python packages most in demand in 2024.&lt;/p>
+&lt;h2 id="python-packages">Python packages
+&lt;/h2>&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack.png"
+width="1016"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/pypack_hu2197d0fbc5937201b0225ac7e61a6f4e_39384_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 3 - Python packages"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="413px"
+>&lt;/p>
+&lt;p>What do all these Python packages do? Well Pytorch, Tensorflow and Keras are all deep learning and AI packages for complex machine learning problems. Pandas is your everyday data handling tool, scikitlearn your basic ML tool and matplotlib is used for visualisations. Basically, a comprehensive toolkit for building data analytics and machine learning tools!&lt;/p>
+&lt;h2 id="cloud-technologies">Cloud technologies
+&lt;/h2>&lt;p>Last but not least, (&lt;em>turns on smoke machine&lt;/em>) &amp;hellip; THE CLOUD &amp;hellip; (&lt;em>turns off smoke machine&lt;/em>). Basically, &amp;ldquo;the cloud&amp;rdquo; is a shed somewhere with hundreds of computers which you pay someone to process or store your terrabytes of data instead of doing it on your struggling laptop. These days it&amp;rsquo;s a common expectation for data scientists and engineers to be experienced with cloud technologies for storage and/or processing purposes.&lt;/p>
+&lt;p>&lt;img src="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech.png"
+width="1007"
+height="590"
+srcset="https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_480x0_resize_box_3.png 480w, https://wmbm.github.io/p/what-programming-languages-and-data-analysis-tools-to-learn-in-2024/cloudtech_hu026a6e83d4112adc2c590334e32ab22b_35614_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Fig 4 - Cloud technologies"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>Looking at the data tech jobs, a whopping 40% of job ads mentioned &amp;ldquo;cloud&amp;rdquo; with the most popular cloud service provider being AWS (Amazon Web Services), followed by Azure, the Microsoft equivalent.&lt;/p>
+&lt;h2 id="in-closing">In closing
+&lt;/h2>&lt;p>Finally, of course you have to remain critical and consider your own path, but hopefully this overview gives you more confidence in your data job journey.&lt;/p>
+&lt;blockquote>
+&lt;p>Something you&amp;rsquo;d like to add? If you have any questions or comments, feel free to add your thoughts below!&lt;/p>
+&lt;/blockquote>
+&lt;p>Checkout the full analysis &lt;a class="link" href="https://www.kaggle.com/code/wilomentena/summary-statistics-of-data-job-market-berlin" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p></description></item></channel></rss>
