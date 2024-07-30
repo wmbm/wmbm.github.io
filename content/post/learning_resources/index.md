@@ -41,6 +41,8 @@ But there are so many(!) and it might be overwhelming, so here are some key reso
 
 4. **DataCamp** - contains many useful walkthroughs and articles on their [blog](https://www.datacamp.com/tutorial/category/ai) and they even offer a [Data Science certification](https://www.datacamp.com/certification/data-scientist?irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2302977_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Guiding%20Tech%20Media&utm_content=ONLINE_TRACKING_LINK&utm_term=) which would be a nice addition for your CV!
 
+5. **Stats LibreTexts** - Free and open-source learning resource for statistics! Their [introduction to statistics](https://stats.libretexts.org/Bookshelves/Introductory_Statistics) is perfect textbook for beginners who need to remember the difference between a standard deviation and a variance.
+
 ## Networking and Events
 
 1. **Meetup** - Although not quite was it used to be, on Meetup you can find local and online tech meetups and events, like this [Python meetup](https://www.meetup.com/de-DE/dcpython/events/300478216/?recId=266f8762-9538-427f-a3b8-cd3987d7f705&recSource=keyword_search&searchId=e687dc52-adae-4e38-88c5-fac622b0ce08) great for learning and networking!
